@@ -60,7 +60,7 @@ body {
 .hero-banner {
   position: relative;
   height: 93vh;
-  width: 205vh;
+  width: 100vw;
   background:#0b0b0b;
   display: flex;
   justify-content: center;
